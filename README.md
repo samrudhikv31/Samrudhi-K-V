@@ -1,0 +1,1 @@
+hotel management is a DBMS project includes client server communication. This file include SQL file contain details of visitors and vacant rooms and many more .Basically this project give u a real life experience of how a hotel will allot u a room and take your details .
